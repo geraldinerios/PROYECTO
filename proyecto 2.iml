@@ -1,0 +1,66 @@
+impirt java.util.Scanner;
+public class Main{
+
+          public static void main (String[]args) {
+              Scanner Sc = new Scanner (System.in);
+              string nombre;
+              int dias;
+              int sueldo;
+              string nombre 2;
+              int dias 2;
+              int sueldo 2;
+              string nombre 3;
+              int dias 3;
+              int sueldo 3;
+              string nombre 4;
+              int dias 4;
+              int sueldo 4;
+              string nombre 5;
+              int dias 5;
+              int sueldo 5;
+              sueldo = 800000;
+              double horas;
+              System. out.println("bienvenido, por favor dijite su nombre");
+              nombre = Sc.nextline();
+              System. out.println("dijite su edad");
+              dias = Sc.nextInt();
+              System. out.println("dijite sus horas trabajadas")
+              horas = Sc.nextByte();
+              System. out.println("su nombre es" +nombre+ "bien y su edad es" +dias+ "y sus horas son" +horas+"");
+              System. out.println("y su sueldo es " +sueldo+ " gracias por su registro");
+
+              System. out.println("bienvenido, por favor dijite su nombre");
+              nombre 2 = Sc.nextline();
+              System. out.println("dijite su edad");
+              dias 2 = Sc.nextInt();
+              System. out.println("dijite sus horas trabajadas")
+              horas 2 = Sc.nextByte();
+              System. out.println("su nombre es" +nombre 2+ "bien y su edad es" +dias 2+ "y sus horas son" +horas+"");
+              System. out.println("y su sueldo es " +sueldo 2+ " gracias por su registro");
+
+              System. out.println("bienvenido, por favor dijite su nombre");
+              nombre 3 = Sc.nextline();
+              System. out.println("dijite su edad");
+              dias 3 = Sc.nextInt();
+              System. out.println("dijite sus horas trabajadas")
+              horas 3 = Sc.nextByte();
+              System. out.println("su nombre es" +nombre 3+ "bien y su edad es" +dias 3+ "y sus horas son" +horas+"");
+              System. out.println("y su sueldo es " +sueldo 3+ " gracias por su registro");
+
+              System. out.println("bienvenido, por favor dijite su nombre");
+              nombre 4 = Sc.nextline();
+              System. out.println("dijite su edad");
+              dias 4 = Sc.nextInt();
+              System. out.println("dijite sus horas trabajadas")
+              horas 4 = Sc.nextByte();
+              System. out.println("su nombre es" +nombre 4+ "bien y su edad es" +dias 4+ "y sus horas son" +horas+"");
+              System. out.println("y su sueldo es " +sueldo 4+ " gracias por su registro");
+
+              System. out.println("bienvenido, por favor dijite su nombre");
+              nombre 5 = Sc.nextline();
+              System. out.println("dijite su edad");
+              dias 5 = Sc.nextInt();
+              System. out.println("dijite sus horas trabajadas")
+              horas 5 = Sc.nextByte();
+              System. out.println("su nombre es" +nombre 5+ "bien y su edad es" +dias 5+ "y sus horas son" +horas+"");
+              System. out.println("y su sueldo es " +sueldo 5+ " gracias por su registro");
